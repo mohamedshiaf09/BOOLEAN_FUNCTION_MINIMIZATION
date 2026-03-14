@@ -52,11 +52,12 @@ endmodule
 **RTL realization**
 
 
-<img width="811" height="555" alt="Screenshot 2026-03-12 103814" src="https://github.com/user-attachments/assets/c16cf170-9477-45f9-870c-d4f6ee0aa233" />
+
 
 
 **RTL**
-<img width="1907" height="918" alt="AdobeExpressPhotos_10c81cd5309c45569820a37832c2cc5a_CopyEdited" src="https://github.com/user-attachments/assets/881f1b27-0ad1-4bdc-9334-208601fe2055" />
+
+
 
 
 **Result:**
