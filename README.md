@@ -52,12 +52,12 @@ endmodule
 **RTL realization**
 
 
-
+C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 113223.png
 
 
 **RTL**
 
-
+C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 111937.png
 
 
 **Result:**
